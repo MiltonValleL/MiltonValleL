@@ -48,7 +48,7 @@ I believe that high-level ML requires robust infrastructure. My projects run on:
 ---
 
 ## 📊 Key Repositories
-* [**Hands-On ML & PyTorch**](https://github.com/MiltonValleL/hands-on-ml-pytorch-2025): Rigorous study of Aurélien Géron’s framework.
+* [**Hands-On ML & PyTorch**](https://github.com/MiltonValleL/hands-on-ml-pytorch-2025): Deep study and analysis of the most popular and best book of the field "**Hands-On Machine Learning with Scikit-Learn and PyTorch**" written by Aurélien Géron (*Spanish Repository*)
 * [**CodeCademy Portfolio**](https://github.com/MiltonValleL/CodeCademy-DataScience-ML-Portfolio): Professional certifications and ML Specialist projects.
 * [**Applied DS Bootcamp Portfolio**](https://github.com/MiltonValleL/Applied-Data-Science-Bootcamp-Portfolio): Refactored real-world industry projects.
 
