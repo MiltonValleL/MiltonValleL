@@ -1,4 +1,4 @@
-# ## Hi there, I'm Milton! 👋
+# Hi there, I'm Milton! 👋
 ### Aspiring Data Scientist & Machine Learning Specialist | 🇧🇴 Bolivia
 
 I am a results-driven Data Scientist on a mission to reach world-class mastery by **2026**. My approach is built on the **"Mastery over Calendar"** philosophy, integrating rigorous Statistics with Production-Ready Machine Learning.
