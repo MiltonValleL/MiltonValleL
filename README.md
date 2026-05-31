@@ -1,5 +1,5 @@
 # Hi there, I'm Milton! 👋
-### Aspiring Data Scientist & Machine Learning Specialist | 🇧🇴 Bolivia
+### Data Scientist & ML Engineer | 🇧🇴 Bolivia
 
 I am a results-driven Data Scientist on a mission to reach world-class mastery by **2026**. My approach is built on the **"Mastery over Calendar"** philosophy, integrating rigorous Statistics with Production-Ready Machine Learning.
 
@@ -8,7 +8,7 @@ I am a results-driven Data Scientist on a mission to reach world-class mastery b
 ## 🚀 Current Technical Focus
 I am currently executing an Agile-based roadmap focused on:
 * **Applied Statistics & Probability:** The backbone of my analytical framework.
-* **Machine Learning Systems:** Deep diving into *'An Introduction to Statistical Learning' (ISLR)* and Aurélien Géron’s *'Hands-On ML'*.
+* **Machine Learning Systems:** Deep diving into *'An Introduction to Statistical Learning' (ISLR)* and Aurélien Géron’s *'Hands-On Machine Learning with Scikit-Learn and PyTorch'*.
 * **Content Creation:** Documenting my learning journey through [Data Science by Doing](https://youtube.com/@DataScienceByDoing) on YouTube.
 
 ---
